@@ -27,5 +27,6 @@ Level: Intermediate
 | ----------- | ----------- | ----------- |
 | [Covid Analysis](https://github.com/Scombes/COVID_data_exploration) | An exploratory data analysis using the COVID-19 data set provided by Our World In Data, with the objective of identifying trends and insights. | MYSQL & Tableau |
 | [Austin Crime Reports](https://github.com/Scombes/Austin_crime_reports) | The aim of this project was to explore and analyze reported crimes in the City of Austin, TX, using data provided by the city. | MYSQL & Tableau |
-| [Fuzzy Maven Factory](https://github.com/Scombes/Fuzzy_Maven_Factory) | Analyze and optimize marketing channels, measure and test website conversion performance, and use data to understand the impact of new product launches. | MYSQL |
+| [Fuzzy Maven Factory](https://github.com/Scombes/Fuzzy_Maven_Factory) | Analyze and optimize marketing channels, measure and test website conversion performance, and use data to understand the impact of new product launches. | MYSQL & Tableau |
+| [RFM Customer Analysis](https://public.tableau.com/app/profile/scott.combes/viz/CustomerAnalysis_16700096162440/RFMMainDashboard) | Using data provided by Brazilian E-commerce site Olist, performed an RFM analysis of their customers to identify different groups and help create targeted marketing campaigns. | TABLEAU |
 
