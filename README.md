@@ -26,5 +26,5 @@ Level: Intermediate
 | Project  | Description | Skills |
 | ----------- | ----------- | ----------- |
 | [Covid Analysis](https://github.com/Scombes/COVID_data_exploration) | An exploratory data analysis using the COVID-19 data set provided by Our World In Data, with the objective of identifying trends and insights. | MYSQL & Tableau |
-| [Austin Crime Reports](https://github.com/Scombes/COVID_data_exploration](https://github.com/Scombes/Austin_crime_reports) | The aim of this project was to explore and analyze reported crimes in the City of Austin, TX, using data provided by the city. | MYSQL & Tableau |
+| [Austin Crime Reports](https://github.com/Scombes/Austin_crime_reports) | The aim of this project was to explore and analyze reported crimes in the City of Austin, TX, using data provided by the city. | MYSQL & Tableau |
 
