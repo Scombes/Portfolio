@@ -21,7 +21,7 @@ Level: Intermediate
 ---
 ## Projects
 
-Click on the project's title (bold and coloured in Blue) to learn more.
+Click on the project's title (bold and coloured in Blue) to view.
 
 | Project  | Description | Skills |
 | ----------- | ----------- | ----------- |
