@@ -12,7 +12,7 @@ Please find me on:
 ### SQL
 Level: Intermediate
 
-Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation
+Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, temporary tables, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation.
 
 ### Tableau
 Level: Intermediate
