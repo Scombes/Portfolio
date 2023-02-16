@@ -3,7 +3,7 @@
 Digital marketing strategist with 8 years of experience working with data and analytics. My area of expertise is using data-driven insights to create powerful and effective marketing campaigns. My proficiency with SQL and Tableau enables me to analyze huge data sets and share insights with stakeholders.
 
 Please find me on:
-- [LinkedIn](https://www.example.com](https://www.linkedin.com/in/scottcombes83/))
+- [LinkedIn](https://www.linkedin.com/in/scottcombes83/)
 - [Tableau](https://public.tableau.com/app/profile/scott.combes)
 
 ---
