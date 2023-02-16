@@ -7,11 +7,23 @@ Please find me on:
 - [Tableau](https://public.tableau.com/app/profile/scott.combes)
 
 ---
+## Skills
+
+### SQL
+Level: Intermediate 
+Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation
+
+### Tableau
+Level: Intermediate
+
+
+
+---
 ## Projects
 
 Click on the project's title (bold and coloured in Blue) to learn more.
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Project Name | Description | Skills |
+| ----------- | ----------- | ----------- |
+| [Covid Analysis](https://github.com/Scombes/COVID_data_exploration) | An exploratory data analysis using the COVID-19 data set provided by Our World In Data, with the objective of identifying trends and insights. | MYSQL & Tableau |
+
