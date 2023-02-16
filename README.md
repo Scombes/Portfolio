@@ -5,6 +5,7 @@ Digital marketing strategist with 8 years of experience working with data and an
 Please find me on:
 - [LinkedIn](https://www.linkedin.com/in/scottcombes83/)
 - [Tableau](https://public.tableau.com/app/profile/scott.combes)
+- Email: Scott.combes@gmail.com
 
 ---
 ## Skills
