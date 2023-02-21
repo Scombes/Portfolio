@@ -30,3 +30,31 @@ Level: Intermediate
 | [Fuzzy Maven Factory](https://github.com/Scombes/Fuzzy_Maven_Factory) | Analyze and optimize marketing channels, measure and test website conversion performance, and use data to understand the impact of new product launches. | MYSQL & Tableau |
 | [RFM Customer Analysis](https://public.tableau.com/app/profile/scott.combes/viz/CustomerAnalysis_16700096162440/RFMMainDashboard) | Using data provided by Brazilian E-commerce site Olist, performed an RFM analysis of their customers to identify different groups and help create targeted marketing campaigns. | Tableau |
 
+---
+## Experience
+
+** Data Analyst | Digital Marketing Specialist **
+* Eisenberg Inc. | Dallas, TX | May 2018 - Current *
+
+- Analyze website analytics data to guide marketing efforts and product strategies, resulting in a 25% increase in website goal completions.
+- Utilize Tableau to design, develop, enhance, and support highly interactive dashboards, scorecards, and reports that communicate key business intelligence.
+- Perform A/B testing of landing pages to increase information sign-ups by 30%.
+- Utilize market analysis to develop marketing campaigns across multiple digital channels that result in a 42% increase in customer inquiries.
+- Perform customer analysis to help clients discover potential customers from sales and purchase data and create targeted marketing strategies. Resulting in a 25% increase in website visits and a 20% increase in customer inquiries.
+
+** Digital Marketing Strategist & Web Development **
+* Immotion Studios | Fort Worth, TX | March 2014 - May 2018 *
+
+- Managed the development and marketing of multiple brands.
+- Designed and developed SEO-optimized websites and landing pages.
+- Planned and executed digital marketing campaigns utilizing a range of techniques, including SEM, SEO, PPC, display, video, content marketing, and email marketing.
+- Measured and reported the performance of all digital marketing campaigns against goals such as ROI and KPIs.
+- Responsible for the planning and budgetary control of all digital marketing campaigns.
+- Brainstormed new and creative growth strategies to increase brand awareness and revenue.
+- Merged brand objectives with right-fit research approaches and uncovered insights fueling customer advancements.
+
+---
+## Education
+
+Bachelor of Arts (B.A.) in Political Science
+* Tulane University, New Orleans, LA *
