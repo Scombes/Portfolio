@@ -1,4 +1,4 @@
-# Scott Combes | Data Analyst | Business Analyst
+# Scott Combes | Data Analyst | Business Intelligence
 
 As an experienced digital marketing strategist with a track record of using data-driven insights to create powerful and effective marketing campaigns, I bring a unique perspective to data analysis. With 8 years of experience working in both B2B and B2C sectors, I am proficient in using SQL and Tableau to analyze large data sets and share insights with stakeholders by creating informative dashboards and presentations. I am a skilled data analyst with expertise in data collection, manipulation, cleaning, and statistical analysis. My experience in A/B testing, report preparation, and market analysis also strengthens my ability to interpret and communicate data insights to help drive data-informed decisions.
 
