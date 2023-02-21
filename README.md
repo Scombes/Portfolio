@@ -39,11 +39,11 @@ Excel | Data collection | Data manipulation/cleaning | Statistical analysis | A/
 ### Data Analyst | Digital Marketing Specialist
 *Eisenberg Inc. | Dallas, TX | May 2018 - Current*
 
-- Analyze website analytics data to guide marketing efforts and product strategies, resulting in a 25% increase in website goal completions.
-- Utilize Tableau to design, develop, enhance, and support highly interactive dashboards, scorecards, and reports that communicate key business intelligence.
-- Perform A/B testing of landing pages to increase information sign-ups by 26%.
-- Utilize market analysis to develop marketing campaigns across multiple digital channels that result in a 20% increase in customer inquiries.
-- Perform customer analysis to help clients discover potential customers from sales and purchase data and create targeted marketing strategies. Resulting in a 25% increase in website visits and a 20% increase in customer inquiries.
+- Analyzed data from B2B website analytics to guide marketing efforts and product strategies This resulted in an increase of website goal completions by 25%.
+- Utilized Tableau to design, develop, enhance and support highly interactive dashboards, scorecards and reports that communicated key business intelligence.
+- Used A/B Testing of PPC landing pages to increase information request by 17%.
+- Utilized market analysis to develop marketing campaign for struggling B2B product across multiple digital channels that resulted in 18% increase in customer inquiries. 
+- Performed customer analysis to help B2B client discover potential customers from sale and purchase data, and then created marketing strategies to target them. Resulted in 20% increase in website visits, and a 15% increase in customer inquiries.  
 
 
 ### Digital Marketing Strategist & Web Development
