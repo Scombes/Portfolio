@@ -41,8 +41,8 @@ Excel | Data collection | Data manipulation/cleaning | Statistical analysis | A/
 
 - Analyze website analytics data to guide marketing efforts and product strategies, resulting in a 25% increase in website goal completions.
 - Utilize Tableau to design, develop, enhance, and support highly interactive dashboards, scorecards, and reports that communicate key business intelligence.
-- Perform A/B testing of landing pages to increase information sign-ups by 30%.
-- Utilize market analysis to develop marketing campaigns across multiple digital channels that result in a 42% increase in customer inquiries.
+- Perform A/B testing of landing pages to increase information sign-ups by 26%.
+- Utilize market analysis to develop marketing campaigns across multiple digital channels that result in a 20% increase in customer inquiries.
 - Perform customer analysis to help clients discover potential customers from sales and purchase data and create targeted marketing strategies. Resulting in a 25% increase in website visits and a 20% increase in customer inquiries.
 
 
