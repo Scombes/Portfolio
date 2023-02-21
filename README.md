@@ -34,6 +34,7 @@ Level: Intermediate
 ## Experience
 
 **Data Analyst | Digital Marketing Specialist**
+
 *Eisenberg Inc. | Dallas, TX | May 2018 - Current*
 
 - Analyze website analytics data to guide marketing efforts and product strategies, resulting in a 25% increase in website goal completions.
@@ -42,7 +43,9 @@ Level: Intermediate
 - Utilize market analysis to develop marketing campaigns across multiple digital channels that result in a 42% increase in customer inquiries.
 - Perform customer analysis to help clients discover potential customers from sales and purchase data and create targeted marketing strategies. Resulting in a 25% increase in website visits and a 20% increase in customer inquiries.
 
+
 **Digital Marketing Strategist & Web Development**
+
 *Immotion Studios | Fort Worth, TX | March 2014 - May 2018*
 
 - Managed the development and marketing of multiple brands.
@@ -57,4 +60,5 @@ Level: Intermediate
 ## Education
 
 Bachelor of Arts (B.A.) in Political Science
+
 *Tulane University, New Orleans, LA*
